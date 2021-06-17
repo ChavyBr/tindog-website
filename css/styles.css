@@ -1,0 +1,157 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+
+
+}
+
+h1 {
+  font-size: 5.625rem;
+  color: #425b8a;
+  margin-top: 100px auto 0 auto;
+  font-family: 'Neucha', cursive;
+}
+
+h2 {
+  color: #425b8a;
+  font-size: 2.5rem;
+  font-family: 'Gothic A1', sans-serif;
+  font-weight: normal;
+  margin-top: 80px;
+  padding-bottom: 10PX;
+}
+
+h3 {
+  color: #425b8a;
+  font-family: 'Gothic A1', sans-serif;
+  padding-top: 50px;
+}
+
+p {
+  line-height: 2;
+
+}
+
+hr {
+  border: dotted  #cad7ef 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a{
+color:#7089b9;
+  font-family: 'Gothic A1', sans-serif;
+  margin:10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+
+  color:#eaf6f6;
+}
+
+.top-container {
+  background-color: #cad7ef;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-flower {
+  position: absolute;
+  right: 550px;
+  top: 350px;
+}
+
+.bottom-flower {
+  position: absolute;
+  left: 450px;
+  bottom: 300px;
+}
+
+.middle-container {
+  image-orientation: 25%;
+  margin: 100px 0;
+  padding-bottom: 100px;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.profile-img {
+  width: 25%;
+  padding-top: 75px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.contact-me{
+  padding-bottom: 100px;
+}
+
+.computer-img {
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+
+.rollercoaster-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.BUTTON_TEZ {
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top,#435492, #7089b9);
+  background-image: -moz-linear-gradient(top,#435492 , #7089b9);
+  background-image: -ms-linear-gradient(top,#435492 , #7089b9);
+  background-image: -o-linear-gradient(top, #435492, #7089b9);
+  background-image: -webkit-gradient(to bottom, #435492, #7089b9);
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  color: #FFFFFF;
+  font-family: 'Gothic A1', sans-serif;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+  text-align: center;
+}
+
+.BUTTON_TEZ:hover {
+
+  background: #7b81c7;
+  background-image: -webkit-linear-gradient(top,#7b81c7 , #c4d1ea);
+  background-image: -moz-linear-gradient(top,#7b81c7 , #c4d1ea);
+  background-image: -ms-linear-gradient(top,#7b81c7 , #c4d1ea);
+  background-image: -o-linear-gradient(top,#7b81c7 , #c4d1ea);
+  background-image: -webkit-gradient(to bottom, #7b81c7, #c4d1ea);
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color:#425b8a;
+  padding: 100px 0 400px;
+
+}
+
+.copyright {
+color: #eaf6f6;
+font-size: 0.75rem;
+padding: 20px 0;
+}
